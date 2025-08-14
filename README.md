@@ -1,5 +1,3 @@
-# mentoriq.github.io
-
 # Privacy Policy – MentorIQ
 
 Last updated: 14 August 2025

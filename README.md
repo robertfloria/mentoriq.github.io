@@ -73,7 +73,11 @@ The mobile App does not use traditional web cookies. It may use device identifie
 ## 13. Managing Your Information
 - Notifications: Manage via your device settings.
 - Account data: Manage via the App’s account/settings pages (where available).
-- Account deletion: Request deletion via the App (if available) or by contacting floria.develop@gmail.com. We will respond within a reasonable timeframe, subject to legal obligations.
+- Account deletion: You can request deletion of your account and all associated data at any time:
+	- From within the App
+	- By contacting us at floria.develop@gmail.com
+
+We will respond within a reasonable timeframe, subject to legal obligations.
 
 ## 14. Changes to This Policy
 We may update this Privacy Policy from time to time. We will post the updated version with a new "Last updated" date, and if changes are material, we will notify you via email or in‑App notice. Your continued use of the App after changes take effect constitutes acceptance of the updated policy.
